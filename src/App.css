@@ -82,7 +82,7 @@
 }
 
 .cards-grid {
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
   gap: 28px;
   justify-content: center;
