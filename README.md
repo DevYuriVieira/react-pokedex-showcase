@@ -1,5 +1,10 @@
 # ⚡⚛️ React Pokedex Showcase — Neon UI, Real-Time Search & Data Visualization
 
+![React 18](https://img.shields.io/badge/React_18-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-vieira-615131188/)
+
 A front-end application focused on **UI architecture**, **componentization**, and **real-time client-side search**, built with React and a structured Pokémon dataset.
 
 This project highlights **clean code**, **visual consistency**, and **scalable component design**, without external API consumption.
